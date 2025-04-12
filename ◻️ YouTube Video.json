@@ -1,52 +1,52 @@
 {
+    "lastModified": "2025-04-10",
     "title": "◻️ YouTube Video",
-    "type": "youtube-videos",
     "items": [
         {
-            "title": "TED | The surprising science of happiness | Dan Gilbert",
-            "notes": "⏳ Duration: PT21M20S",
+            "title": "The surprising science of happiness | Dan Gilbert",
+            "notes": "",
             "url": "https://www.youtube.com/watch?v=4q1dgn_C0AU",
             "category": "❤️ Favorites"
         },
         {
-            "title": "Jeffrey Danese | This Is Water  David Foster Wallace Commencement Speech",
-            "notes": "⏳ Duration: PT22M44S",
+            "title": "This Is Water  David Foster Wallace Commencement Speech",
+            "notes": "",
             "url": "https://www.youtube.com/watch?v=DCbGM4mqEVw",
             "category": "❤️ Favorites"
         },
         {
-            "title": "Winning Mentality | Kobe Bryant CHAMPION MINDSET - What Separates the WINNERS from the LOSERS (MUST WATCH)",
-            "notes": "⏳ Duration: PT10M21S",
+            "title": "Kobe Bryant CHAMPION MINDSET - What Separates the WINNERS from the LOSERS (MUST WATCH)",
+            "notes": "",
             "url": "https://www.youtube.com/watch?v=Ju5kyQJyGBY",
             "category": "❤️ Favorites"
         },
         {
-            "title": "America's Got Talent | Golden Buzzer: Nightbirde's Original Song Makes Simon Cowell Emotional - America's Got Talent 2021",
-            "notes": "⏳ Duration: PT7M33S",
+            "title": "Golden Buzzer: Nightbirde's Original Song Makes Simon Cowell Emotional - America's Got Talent 2021",
+            "notes": "",
             "url": "https://www.youtube.com/watch?v=CZJvBfoHDk0",
             "category": "❤️ Favorites"
         },
         {
-            "title": "Stanford | Steve Jobs' 2005 Stanford Commencement Address",
-            "notes": "⏳ Duration: PT15M5S",
+            "title": "Steve Jobs' 2005 Stanford Commencement Address",
+            "notes": "",
             "url": "https://www.youtube.com/watch?v=UF8uR6Z6KLc",
             "category": "❤️ Favorites"
         },
         {
-            "title": "Dartmouth | 2024 Commencement Address by Roger Federer at Dartmouth",
-            "notes": "⏳ Duration: PT25M4S",
+            "title": "2024 Commencement Address by Roger Federer at Dartmouth",
+            "notes": "",
             "url": "https://www.youtube.com/watch?v=pqWUuYTcG-o",
             "category": "❤️ Favorites"
         },
         {
-            "title": "Jim Tait | Are you enough?",
-            "notes": "⏳ Duration: PT1M",
+            "title": "Are you enough?",
+            "notes": "",
             "url": "https://www.youtube.com/watch?v=7Wat10MId7A",
             "category": "❤️ Favorites"
         },
         {
-            "title": "台灣啟示錄 | 【@ebcapocalypse  全集】世界紀錄一年開千台刀！狂醫專治沒救的！全球名醫都服他｜洪培翔",
-            "notes": "⏳ Duration: PT49M2S",
+            "title": "【@ebcapocalypse  全集】世界紀錄一年開千台刀！狂醫專治沒救的！全球名醫都服他｜洪培翔",
+            "notes": "",
             "url": "https://www.youtube.com/watch?v=K5FM1U1oXng",
             "category": "❤️ Favorites"
         },
@@ -1658,5 +1658,6 @@
             "url": "https://youtu.be/uD4izuDMUQA",
             "category": "👉 Music"
         }
-    ]
+    ],
+    "type": "youtube-videos"
 }

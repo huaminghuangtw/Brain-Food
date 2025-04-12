@@ -1,744 +1,757 @@
 {
+    "lastModified": "2025-04-10",
     "title": "◻️ Movie & TV",
-    "type": "movie-tv-shows",
     "items": [
         {
             "title": "To the Summit",
-            "notes": "🎬 Genres: Adventure • Documentary",
+            "notes": "🖼️ Mount Everest, the highest peak in the world, welcomes the challenge of countless dreamers every year. Xia Boyu is the first Chinese \"hardcore man\" to successfully climb Mount Everest with prosthetics! In 1975, Xia Boyu joined the Chinese mountaineering team. He helped his teammates while climbing Mount Everest, which resulted in his lower legs being amputated due to frostbite. However, he did not give up his dream of climbing Mount Everest.",
             "url": "https://www.imdb.com/title/tt16345430",
             "category": "❤️ Favorites"
         },
         {
             "title": "About Time",
-            "notes": "🎬 Genres: Drama • Fantasy • Romance",
+            "notes": "🗣️ \"What if every moment in life came with a second chance?\"\n🖼️ The night after another unsatisfactory New Year's party, Tim's father tells his son that the men in his family have always had the ability to travel through time. They can't change history, but they can change what happens and has happened in their own lives. Thus begins the start of a lesson in learning to appreciate life itself as it is, as it comes, and most importantly, the people living alongside us.\n🏠 https://www.uphe.com/movies/about-time",
             "url": "https://www.imdb.com/title/tt2194499",
             "category": "❤️ Favorites"
         },
         {
             "title": "Return to Space",
-            "notes": "🎬 Genres: Documentary",
+            "notes": "🖼️ The inspirational rise of SpaceX as well as Elon Musk's two-decade effort to resurrect America’s space travel ambitions.\n🏠 https://www.netflix.com/title/81111324",
             "url": "https://www.imdb.com/title/tt18555320",
             "category": "❤️ Favorites"
         },
         {
-            "title": "Pumping Iron",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt0076578",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Everything Everywhere All at Once (媽的多重宇宙)",
-            "notes": "🎬 Genres: Action • Adventure • Science Fiction",
-            "url": "https://www.imdb.com/title/tt6710474",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "The River Runner",
-            "notes": "🎬 Genres: Adventure • Documentary",
-            "url": "https://www.imdb.com/title/tt15293256",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "The Walk",
-            "notes": "🎬 Genres: Drama • History",
-            "url": "https://www.imdb.com/title/tt3488710",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Roadrunner: A Film About Anthony Bourdain",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt14512538",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Like Stars on Earth (心中的小星星)",
-            "notes": "🎬 Genres: Drama",
-            "url": "https://www.imdb.com/title/tt0986264",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "The Alpinist",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt11790780",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Amistad",
-            "notes": "🎬 Genres: Drama • History • Mystery",
-            "url": "https://www.imdb.com/title/tt0118607",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Inside Out 2 (腦筋急轉彎2)",
-            "notes": "🎬 Genres: Adventure • Animation • Comedy • Drama • Family",
-            "url": "https://www.imdb.com/title/tt22022452",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Dune",
-            "notes": "🎬 Genres: Adventure • Science Fiction",
-            "url": "https://www.imdb.com/title/tt1160419",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Inside Out (腦筋急轉彎)",
-            "notes": "🎬 Genres: Adventure • Animation • Comedy • Drama • Family",
-            "url": "https://www.imdb.com/title/tt2096673",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "One of Us",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt7214842",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Whiplash (進擊的鼓手)",
-            "notes": "🎬 Genres: Drama • Music",
-            "url": "https://www.imdb.com/title/tt2582802",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "The Last Days",
-            "notes": "🎬 Genres: Documentary • Drama • History • War",
-            "url": "https://www.imdb.com/title/tt0174852",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "The Great Dictator",
-            "notes": "🎬 Genres: Comedy • War",
-            "url": "https://www.imdb.com/title/tt0032553",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "The Time Traveler's Wife",
-            "notes": "🎬 Genres: Drama • Fantasy • Romance",
-            "url": "https://www.imdb.com/title/tt0452694",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "The Barkley Marathons: The Race That Eats Its Young",
-            "notes": "🎬 Genres: Documentary • History",
-            "url": "https://www.imdb.com/title/tt2400291",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "The Blue Bird",
-            "notes": "🎬 Genres: Drama • Family",
-            "url": "https://www.imdb.com/title/tt1313093",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "In Search of Greatness",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt8236398",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "King Richard",
-            "notes": "🎬 Genres: Drama • History",
-            "url": "https://www.imdb.com/title/tt9620288",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Free Solo",
-            "notes": "🎬 Genres: Adventure • Documentary",
-            "url": "https://www.imdb.com/title/tt7775622",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Midnight in Paris",
-            "notes": "🎬 Genres: Comedy • Fantasy • Romance",
-            "url": "https://www.imdb.com/title/tt1605783",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Jiro Dreams of Sushi",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt1772925",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Coco",
-            "notes": "🎬 Genres: Adventure • Animation • Family • Music",
-            "url": "https://www.imdb.com/title/tt2380307",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "From Shock to Awe",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt7541970",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Life Is Beautiful (美麗人生)",
-            "notes": "🎬 Genres: Comedy • Drama",
-            "url": "https://www.imdb.com/title/tt0118799",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Soul",
-            "notes": "🎬 Genres: Animation • Comedy • Family • Fantasy",
-            "url": "https://www.imdb.com/title/tt2948372",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "The King's Speech (王者之聲：宣戰時刻)",
-            "notes": "🎬 Genres: Drama • History",
-            "url": "https://www.imdb.com/title/tt1504320",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Trip of Compassion",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt7155154",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "La La Land",
-            "notes": "🎬 Genres: Comedy • Drama • Music • Romance",
-            "url": "https://www.imdb.com/title/tt3783958",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Late Life: The Chien-Ming Wang Story (後勁: 王建民)",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt8234502",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "3 Idiots (三個傻瓜)",
-            "notes": "🎬 Genres: Comedy • Drama",
-            "url": "https://www.imdb.com/title/tt1187043",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Facing Nolan",
-            "notes": "🎬 Genres: Documentary • History",
-            "url": "https://www.imdb.com/title/tt17511190",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Bird by Bird with Annie: A Film Portrait of Writer Anne Lamott",
-            "notes": "🎬 Genres: Bird by Bird with Annie: A Film Portrait of Writer Anne Lamott",
-            "url": "https://www.imdb.com/title/tt0202259",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Past Lives (怕死來福)",
-            "notes": "🎬 Genres: Drama • Romance",
-            "url": "https://www.imdb.com/title/tt13238346",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Dune: Part Two (沙丘：第二部)",
-            "notes": "🎬 Genres: Adventure • Science Fiction",
-            "url": "https://www.imdb.com/title/tt15239678",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Revolution of Our Times",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt15049118",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "The Work",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt5836866",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "The Rescue",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt9098872",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "The Legend of Bagger Vance",
-            "notes": "🎬 Genres: Drama • Fantasy",
-            "url": "https://www.imdb.com/title/tt0146984",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Tuesdays with Morrie",
-            "notes": "🎬 Genres: Drama • TV Movie",
-            "url": "https://www.imdb.com/title/tt0207805",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Erin Brockovich",
-            "notes": "🎬 Genres: Drama",
-            "url": "https://www.imdb.com/title/tt0195685",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "The Price of Everything",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt7475540",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Somm (頂尖侍酒大師)",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt2204371",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "The Lost Leonardo",
-            "notes": "🎬 Genres: Documentary • History",
-            "url": "https://www.imdb.com/title/tt11225756",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "The Biggest Little Farm (我家有個開心農場)",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt8969332",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Mike Wallace Is Here",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt9353436",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Man on Wire",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt1155592",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "The Legend of 1900",
-            "notes": "🎬 Genres: Drama • Music",
-            "url": "https://www.imdb.com/title/tt0120731",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Cool Runnings",
-            "notes": "🎬 Genres: Adventure • Comedy • Drama",
-            "url": "https://www.imdb.com/title/tt0106611",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Kipchoge: The Last Milestone",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt14247964",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Crip Camp: A Disability Revolution",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt8923484",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "The Game Changers",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt7455754",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Cave of Forgotten Dreams",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt1664894",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "The Martian (絕地救援)",
-            "notes": "🎬 Genres: Adventure • Drama • Science Fiction",
-            "url": "https://www.imdb.com/title/tt3659388",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Dosed",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt9787524",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "The Magic Pill",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt6035294",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Oppenheimer (奧本海默)",
-            "notes": "🎬 Genres: Drama • History",
-            "url": "https://www.imdb.com/title/tt15398776",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Dangal",
-            "notes": "🎬 Genres: Action • Comedy • Drama • Family",
-            "url": "https://www.imdb.com/title/tt5074352",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Dealt",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt3127902",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "The Social Dilemma",
-            "notes": "🎬 Genres: Documentary • Drama",
-            "url": "https://www.imdb.com/title/tt11464826",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Kumaré",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt1865425",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "The Worst Person in the World (世界上最爛的人)",
-            "notes": "🎬 Genres: Comedy • Drama • Romance",
-            "url": "https://www.imdb.com/title/tt10370710",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Struggle: The Life and Lost Art of Szukalski",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt9316022",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Doctor Strange",
-            "notes": "🎬 Genres: Action • Adventure • Fantasy",
-            "url": "https://www.imdb.com/title/tt1211837",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "The Matrix (廿二世紀殺人網絡)",
-            "notes": "🎬 Genres: Action • Science Fiction",
-            "url": "https://www.imdb.com/title/tt0133093",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "A Beautiful Mind (美麗心靈)",
-            "notes": "🎬 Genres: Drama • Romance",
-            "url": "https://www.imdb.com/title/tt0268978",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Joker (小丑)",
-            "notes": "🎬 Genres: Crime • Drama • Thriller",
-            "url": "https://www.imdb.com/title/tt7286456",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Jonas Deichmann - Breaking the Limit",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt16986722",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Burden of Dreams",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt0083702",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "I Am Bolt",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt4647900",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Run for dream",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt10851008",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Philip Roth: Unmasked",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt2772984",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Searching for Sugar Man (尋找甜秘客)",
-            "notes": "🎬 Genres: Documentary • Music",
-            "url": "https://www.imdb.com/title/tt2125608",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Remember Me",
-            "notes": "🎬 Genres: Drama • Romance",
-            "url": "",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "My Dinner with Andre",
-            "notes": "🎬 Genres: Drama",
-            "url": "https://www.imdb.com/title/tt0082783",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Saving Private Ryan",
-            "notes": "🎬 Genres: Drama • History • War",
-            "url": "https://www.imdb.com/title/tt0120815",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Let the Bullets Fly (讓子彈飛)",
-            "notes": "🎬 Genres: Action • Comedy",
-            "url": "https://www.imdb.com/title/tt1533117",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Twelve Nights",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt4141906",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Ne Zha 2",
-            "notes": "🎬 Genres: Adventure • Animation • Fantasy",
-            "url": "https://www.imdb.com/title/tt34956443",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "Ne Zha",
-            "notes": "🎬 Genres: Adventure • Animation • Fantasy",
-            "url": "https://www.imdb.com/title/tt10627720",
-            "category": "👉 MOVIE"
-        },
-        {
-            "title": "The Shawshank Redemption",
-            "notes": "🎬 Genres: Crime • Drama",
-            "url": "https://www.imdb.com/title/tt0111161",
+            "title": "Benjamin Franklin",
+            "notes": "📅 Year: 2022",
+            "url": "https://www.imdb.com/title/tt16415264",
             "category": "👉 TV"
         },
         {
             "title": "Deadliest Catch",
-            "notes": "🎬 Genres: Reality",
+            "notes": "📅 Year: 2005",
             "url": "https://www.imdb.com/title/tt0446809",
             "category": "👉 TV"
         },
         {
             "title": "WeCrashed",
-            "notes": "🎬 Genres: Drama",
+            "notes": "📅 Year: 2022",
             "url": "https://www.imdb.com/title/tt12005128",
             "category": "👉 TV"
         },
         {
-            "title": "Rebooting",
-            "notes": "🎬 Genres: Comedy • Drama • Sci-Fi & Fantasy",
-            "url": "https://www.imdb.com/title/tt26134148",
+            "title": "The Playlist",
+            "notes": "📅 Year: 2022",
+            "url": "https://www.imdb.com/title/tt11564258",
             "category": "👉 TV"
         },
         {
             "title": "The Last of Us",
-            "notes": "🎬 Genres: Drama",
+            "notes": "📅 Year: 2023",
             "url": "https://www.imdb.com/title/tt3581920",
             "category": "👉 TV"
         },
         {
-            "title": "How to Get Rich",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt27206017",
+            "title": "The Billion Dollar Code",
+            "notes": "📅 Year: 2021",
+            "url": "https://www.imdb.com/title/tt15392100",
             "category": "👉 TV"
         },
         {
-            "title": "Haikyu!!",
-            "notes": "🎬 Genres: Action & Adventure • Animation",
-            "url": "https://www.imdb.com/title/tt3398540",
+            "title": "House of Cards",
+            "notes": "📅 Year: 2013",
+            "url": "https://www.imdb.com/title/tt1856010",
+            "category": "👉 TV"
+        },
+        {
+            "title": "Chernobyl",
+            "notes": "📅 Year: 2019",
+            "url": "https://www.imdb.com/title/tt7366338",
             "category": "👉 TV"
         },
         {
             "title": "The Man in the High Castle",
-            "notes": "🎬 Genres: Drama • Sci-Fi & Fantasy",
+            "notes": "📅 Year: 2015",
             "url": "https://www.imdb.com/title/tt1740299",
             "category": "👉 TV"
         },
         {
-            "title": "How to Change Your Mind",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt21062540",
+            "title": "Dark Matter",
+            "notes": "📅 Year: 2024",
+            "url": "https://www.imdb.com/title/tt19231492",
+            "category": "👉 TV"
+        },
+        {
+            "title": "Mumbai Diaries",
+            "notes": "📅 Year: 2021",
+            "url": "https://www.imdb.com/title/tt12714854",
+            "category": "👉 TV"
+        },
+        {
+            "title": "The Magician on the Skywalk",
+            "notes": "📅 Year: 2021",
+            "url": "https://www.imdb.com/title/tt14238838",
+            "category": "👉 TV"
+        },
+        {
+            "title": "The Playbook",
+            "notes": "📅 Year: 2020",
+            "url": "https://www.imdb.com/title/tt12930602",
             "category": "👉 TV"
         },
         {
             "title": "The Mind, Explained",
-            "notes": "🎬 Genres: Documentary",
+            "notes": "📅 Year: 2019",
             "url": "https://www.imdb.com/title/tt10810430",
             "category": "👉 TV"
         },
         {
+            "title": "The Last Dance",
+            "notes": "📅 Year: 2020",
+            "url": "https://www.imdb.com/title/tt8420184",
+            "category": "👉 TV"
+        },
+        {
+            "title": "One Strange Rock",
+            "notes": "📅 Year: 2018",
+            "url": "https://www.imdb.com/title/tt7651892",
+            "category": "👉 TV"
+        },
+        {
+            "title": "How to Get Rich",
+            "notes": "📅 Year: 2023",
+            "url": "https://www.imdb.com/title/tt27206017",
+            "category": "👉 TV"
+        },
+        {
+            "title": "How to Change Your Mind",
+            "notes": "📅 Year: 2022",
+            "url": "https://www.imdb.com/title/tt21062540",
+            "category": "👉 TV"
+        },
+        {
+            "title": "Formula 1: Drive to Survive",
+            "notes": "📅 Year: 2019",
+            "url": "https://www.imdb.com/title/tt8289930",
+            "category": "👉 TV"
+        },
+        {
             "title": "Chef's Table",
-            "notes": "🎬 Genres: Documentary",
+            "notes": "📅 Year: 2015",
             "url": "https://www.imdb.com/title/tt4295140",
             "category": "👉 TV"
         },
         {
             "title": "Arnold",
-            "notes": "🎬 Genres: Documentary",
+            "notes": "📅 Year: 2023",
             "url": "https://www.imdb.com/title/tt27713897",
             "category": "👉 TV"
         },
         {
-            "title": "The Last Dance",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt8420184",
-            "category": "👉 TV"
-        },
-        {
-            "title": "House of Cards",
-            "notes": "🎬 Genres: Drama",
-            "url": "https://www.imdb.com/title/tt1856010",
-            "category": "👉 TV"
-        },
-        {
-            "title": "Dark Matter",
-            "notes": "🎬 Genres: Drama • Sci-Fi & Fantasy",
-            "url": "https://www.imdb.com/title/tt19231492",
-            "category": "👉 TV"
-        },
-        {
-            "title": "Demon Slayer: Kimetsu no Yaiba",
-            "notes": "🎬 Genres: Action & Adventure • Animation • Sci-Fi & Fantasy",
-            "url": "https://www.imdb.com/title/tt9335498",
-            "category": "👉 TV"
-        },
-        {
-            "title": "Tiger King",
-            "notes": "🎬 Genres: Crime • Documentary",
-            "url": "https://www.imdb.com/title/tt11823076",
-            "category": "👉 TV"
-        },
-        {
-            "title": "Goliath",
-            "notes": "🎬 Genres: Crime • Drama",
-            "url": "https://www.imdb.com/title/tt4687880",
-            "category": "👉 TV"
-        },
-        {
-            "title": "Chernobyl",
-            "notes": "🎬 Genres: Drama",
-            "url": "https://www.imdb.com/title/tt7366338",
-            "category": "👉 TV"
-        },
-        {
-            "title": "The Billion Dollar Code",
-            "notes": "🎬 Genres: Drama",
-            "url": "https://www.imdb.com/title/tt15392100",
-            "category": "👉 TV"
-        },
-        {
-            "title": "One Strange Rock",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt7651892",
-            "category": "👉 TV"
-        },
-        {
-            "title": "Live to 100: Secrets of the Blue Zones",
-            "notes": "🎬 Genres: Documentary • Mystery",
-            "url": "https://www.imdb.com/title/tt28523129",
-            "category": "👉 TV"
-        },
-        {
             "title": "Abstract: The Art of Design",
-            "notes": "🎬 Genres: Documentary",
+            "notes": "📅 Year: 2017",
             "url": "https://www.imdb.com/title/tt6333098",
             "category": "👉 TV"
         },
         {
-            "title": "Formula 1: Drive to Survive",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt8289930",
+            "title": "Live to 100: Secrets of the Blue Zones",
+            "notes": "📅 Year: 2023",
+            "url": "https://www.imdb.com/title/tt28523129",
             "category": "👉 TV"
         },
         {
-            "title": "The Bear",
-            "notes": "🎬 Genres: Comedy • Drama",
-            "url": "https://www.imdb.com/title/tt14452776",
+            "title": "Goliath",
+            "notes": "📅 Year: 2016",
+            "url": "https://www.imdb.com/title/tt4687880",
             "category": "👉 TV"
         },
         {
-            "title": "The Playlist",
-            "notes": "🎬 Genres: Drama",
-            "url": "https://www.imdb.com/title/tt11564258",
+            "title": "Tiger King",
+            "notes": "📅 Year: 2020",
+            "url": "https://www.imdb.com/title/tt11823076",
             "category": "👉 TV"
         },
         {
             "title": "Dirty Money",
-            "notes": "🎬 Genres: Crime • Documentary",
+            "notes": "📅 Year: 2018",
             "url": "https://www.imdb.com/title/tt7889220",
             "category": "👉 TV"
         },
         {
-            "title": "The Playbook",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt12930602",
+            "title": "The Bear",
+            "notes": "📅 Year: 2022",
+            "url": "https://www.imdb.com/title/tt14452776",
             "category": "👉 TV"
         },
         {
-            "title": "The Magician on the Skywalk",
-            "notes": "🎬 Genres: Drama • Mystery • Sci-Fi & Fantasy",
-            "url": "https://www.imdb.com/title/tt14238838",
+            "title": "Rebooting",
+            "notes": "📅 Year: 2023",
+            "url": "https://www.imdb.com/title/tt26134148",
             "category": "👉 TV"
         },
         {
-            "title": "Mumbai Diaries",
-            "notes": "🎬 Genres: Drama • Mystery",
-            "url": "https://www.imdb.com/title/tt12714854",
+            "title": "Haikyu!!",
+            "notes": "📅 Year: 2014",
+            "url": "https://www.imdb.com/title/tt3398540",
             "category": "👉 TV"
         },
         {
-            "title": "Rain Man",
-            "notes": "🎬 Genres: Drama",
-            "url": "https://www.imdb.com/title/tt0095953",
+            "title": "Demon Slayer: Kimetsu no Yaiba",
+            "notes": "📅 Year: 2019",
+            "url": "https://www.imdb.com/title/tt9335498",
             "category": "👉 TV"
         },
         {
-            "title": "Searching for Bobby Fischer",
-            "notes": "🎬 Genres: Drama",
-            "url": "https://www.imdb.com/title/tt0108065",
-            "category": "👉 TV"
-        },
-        {
-            "title": "The Book Thief",
-            "notes": "🎬 Genres: Drama",
-            "url": "https://www.imdb.com/title/tt0816442",
-            "category": "👉 TV"
-        },
-        {
-            "title": "The Finishers",
-            "notes": "🎬 Genres: Drama",
-            "url": "https://www.imdb.com/title/tt2454430",
-            "category": "👉 TV"
-        },
-        {
-            "title": "The Pursuit of Happyness",
-            "notes": "🎬 Genres: Drama",
-            "url": "https://www.imdb.com/title/tt0454921",
-            "category": "👉 TV"
-        },
-        {
-            "title": "Yi Yi",
-            "notes": "🎬 Genres: Drama",
-            "url": "https://www.imdb.com/title/tt0244316",
-            "category": "👉 TV"
-        },
-        {
-            "title": "The Butterfly Effect",
-            "notes": "🎬 Genres: Science Fiction • Thriller",
-            "url": "https://www.imdb.com/title/tt0289879",
-            "category": "👉 TV"
+            "title": "The Shawshank Redemption (刺激1995)",
+            "notes": "📅 Year: 1994",
+            "url": "https://www.imdb.com/title/tt0111161",
+            "category": "👉 MOVIE"
         },
         {
             "title": "The Stanford Prison Experiment",
-            "notes": "🎬 Genres: Thriller",
+            "notes": "📅 Year: 2015",
             "url": "https://www.imdb.com/title/tt0420293",
-            "category": "👉 TV"
+            "category": "👉 MOVIE"
         },
         {
-            "title": "Benjamin Franklin",
-            "notes": "🎬 Genres: Documentary",
-            "url": "https://www.imdb.com/title/tt16415264",
-            "category": "👉 TV"
+            "title": "Yi Yi",
+            "notes": "📅 Year: 2000",
+            "url": "https://www.imdb.com/title/tt0244316",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Pursuit of Happyness",
+            "notes": "📅 Year: 2006",
+            "url": "https://www.imdb.com/title/tt0454921",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Finishers",
+            "notes": "📅 Year: 2013",
+            "url": "https://www.imdb.com/title/tt2454430",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Book Thief",
+            "notes": "📅 Year: 2013",
+            "url": "https://www.imdb.com/title/tt0816442",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Searching for Bobby Fischer",
+            "notes": "📅 Year: 1993",
+            "url": "https://www.imdb.com/title/tt0108065",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Rain Man",
+            "notes": "📅 Year: 1988",
+            "url": "https://www.imdb.com/title/tt0095953",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Ne Zha",
+            "notes": "📅 Year: 2019",
+            "url": "https://www.imdb.com/title/tt10627720",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Ne Zha 2",
+            "notes": "📅 Year: 2025",
+            "url": "https://www.imdb.com/title/tt34956443",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Brutalist",
+            "notes": "📅 Year: 2024",
+            "url": "https://www.imdb.com/title/tt8999762",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Twelve Nights",
+            "notes": "📅 Year: 2013",
+            "url": "https://www.imdb.com/title/tt4141906",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Let the Bullets Fly (讓子彈飛)",
+            "notes": "📅 Year: 2010",
+            "url": "https://www.imdb.com/title/tt1533117",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Saving Private Ryan",
+            "notes": "📅 Year: 1998",
+            "url": "https://www.imdb.com/title/tt0120815",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "My Dinner with Andre",
+            "notes": "📅 Year: 1981",
+            "url": "https://www.imdb.com/title/tt0082783",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Remember Me",
+            "notes": "📅 Year: 2010",
+            "url": "https://www.imdb.com/title/tt1403981",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Everything Everywhere All at Once (媽的多重宇宙)",
+            "notes": "📅 Year: 2022",
+            "url": "https://www.imdb.com/title/tt6710474",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Pumping Iron",
+            "notes": "📅 Year: 1977",
+            "url": "https://www.imdb.com/title/tt0076578",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Philip Roth: Unmasked",
+            "notes": "📅 Year: 2013",
+            "url": "https://www.imdb.com/title/tt2772984",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "One of Us",
+            "notes": "📅 Year: 2017",
+            "url": "https://www.imdb.com/title/tt7214842",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Mike Wallace Is Here",
+            "notes": "📅 Year: 2019",
+            "url": "https://www.imdb.com/title/tt9353436",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Man on Wire",
+            "notes": "📅 Year: 2008",
+            "url": "https://www.imdb.com/title/tt1155592",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Late Life: The Chien-Ming Wang Story (後勁: 王建民)",
+            "notes": "📅 Year: 2018",
+            "url": "https://www.imdb.com/title/tt8234502",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Kumaré",
+            "notes": "📅 Year: 2012",
+            "url": "https://www.imdb.com/title/tt1865425",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Kipchoge: The Last Milestone",
+            "notes": "📅 Year: 2021",
+            "url": "https://www.imdb.com/title/tt14247964",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Jonas Deichmann - Breaking the Limit",
+            "notes": "📅 Year: 2022",
+            "url": "https://www.imdb.com/title/tt16986722",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Jiro Dreams of Sushi",
+            "notes": "📅 Year: 2011",
+            "url": "https://www.imdb.com/title/tt1772925",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "In Search of Greatness",
+            "notes": "📅 Year: 2018",
+            "url": "https://www.imdb.com/title/tt8236398",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "I Am Bolt",
+            "notes": "📅 Year: 2016",
+            "url": "https://www.imdb.com/title/tt4647900",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "From Shock to Awe",
+            "notes": "📅 Year: 2018",
+            "url": "https://www.imdb.com/title/tt7541970",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Dosed",
+            "notes": "📅 Year: 2019",
+            "url": "https://www.imdb.com/title/tt9787524",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Dealt",
+            "notes": "📅 Year: 2017",
+            "url": "https://www.imdb.com/title/tt3127902",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Crip Camp: A Disability Revolution",
+            "notes": "📅 Year: 2020",
+            "url": "https://www.imdb.com/title/tt8923484",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Cave of Forgotten Dreams",
+            "notes": "📅 Year: 2010",
+            "url": "https://www.imdb.com/title/tt1664894",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Burden of Dreams",
+            "notes": "📅 Year: 1982",
+            "url": "https://www.imdb.com/title/tt0083702",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Searching for Sugar Man (尋找甜秘客)",
+            "notes": "📅 Year: 2012",
+            "url": "https://www.imdb.com/title/tt2125608",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Lost Leonardo",
+            "notes": "📅 Year: 2021",
+            "url": "https://www.imdb.com/title/tt11225756",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Barkley Marathons: The Race That Eats Its Young",
+            "notes": "📅 Year: 2014",
+            "url": "https://www.imdb.com/title/tt2400291",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Facing Nolan",
+            "notes": "📅 Year: 2022",
+            "url": "https://www.imdb.com/title/tt17511190",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Social Dilemma",
+            "notes": "📅 Year: 2020",
+            "url": "https://www.imdb.com/title/tt11464826",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Last Days",
+            "notes": "📅 Year: 1998",
+            "url": "https://www.imdb.com/title/tt0174852",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Joker (小丑)",
+            "notes": "📅 Year: 2019",
+            "url": "https://www.imdb.com/title/tt7286456",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Great Dictator",
+            "notes": "📅 Year: 1940",
+            "url": "https://www.imdb.com/title/tt0032553",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Midnight in Paris",
+            "notes": "📅 Year: 2011",
+            "url": "https://www.imdb.com/title/tt1605783",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Life Is Beautiful (美麗人生)",
+            "notes": "📅 Year: 1997",
+            "url": "https://www.imdb.com/title/tt0118799",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "3 Idiots (三個傻瓜)",
+            "notes": "📅 Year: 2009",
+            "url": "https://www.imdb.com/title/tt1187043",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Worst Person in the World (世界上最爛的人)",
+            "notes": "📅 Year: 2021",
+            "url": "https://www.imdb.com/title/tt10370710",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "La La Land",
+            "notes": "📅 Year: 2016",
+            "url": "https://www.imdb.com/title/tt3783958",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Bird by Bird with Annie: A Film Portrait of Writer Anne Lamott",
+            "notes": "📅 Year: 1999\n🎬 Genres: Bird by Bird with Annie: A Film Portrait of Writer Anne Lamott",
+            "url": "https://www.imdb.com/title/tt0202259",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Soul",
+            "notes": "📅 Year: 2020",
+            "url": "https://www.imdb.com/title/tt2948372",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Dune: Part Two (沙丘：第二部)",
+            "notes": "📅 Year: 2024",
+            "url": "https://www.imdb.com/title/tt15239678",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Dune",
+            "notes": "📅 Year: 2021",
+            "url": "https://www.imdb.com/title/tt1160419",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Martian (絕地救援)",
+            "notes": "📅 Year: 2015",
+            "url": "https://www.imdb.com/title/tt3659388",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The River Runner",
+            "notes": "📅 Year: 2021",
+            "url": "https://www.imdb.com/title/tt15293256",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Free Solo",
+            "notes": "📅 Year: 2018",
+            "url": "https://www.imdb.com/title/tt7775622",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Cool Runnings",
+            "notes": "📅 Year: 1993",
+            "url": "https://www.imdb.com/title/tt0106611",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Coco",
+            "notes": "📅 Year: 2017",
+            "url": "https://www.imdb.com/title/tt2380307",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Inside Out 2 (腦筋急轉彎2)",
+            "notes": "📅 Year: 2024",
+            "url": "https://www.imdb.com/title/tt22022452",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Inside Out (腦筋急轉彎)",
+            "notes": "📅 Year: 2015",
+            "url": "https://www.imdb.com/title/tt2096673",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Matrix (駭客任務)",
+            "notes": "📅 Year: 1999",
+            "url": "https://www.imdb.com/title/tt0133093",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Dangal",
+            "notes": "📅 Year: 2016",
+            "url": "https://www.imdb.com/title/tt5074352",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Doctor Strange",
+            "notes": "📅 Year: 2016",
+            "url": "https://www.imdb.com/title/tt1211837",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Like Stars on Earth (心中的小星星)",
+            "notes": "📅 Year: 2007",
+            "url": "https://www.imdb.com/title/tt0986264",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Erin Brockovich",
+            "notes": "📅 Year: 2000",
+            "url": "https://www.imdb.com/title/tt0195685",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Tuesdays with Morrie",
+            "notes": "📅 Year: 1999",
+            "url": "https://www.imdb.com/title/tt0207805",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Past Lives (怕死來福)",
+            "notes": "📅 Year: 2023",
+            "url": "https://www.imdb.com/title/tt13238346",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "A Beautiful Mind (美麗心靈)",
+            "notes": "📅 Year: 2001",
+            "url": "https://www.imdb.com/title/tt0268978",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Whiplash (進擊的鼓手)",
+            "notes": "📅 Year: 2014",
+            "url": "https://www.imdb.com/title/tt2582802",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Legend of 1900",
+            "notes": "📅 Year: 1998",
+            "url": "https://www.imdb.com/title/tt0120731",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Walk",
+            "notes": "📅 Year: 2015",
+            "url": "https://www.imdb.com/title/tt3488710",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The King's Speech (王者之聲：宣戰時刻)",
+            "notes": "📅 Year: 2010",
+            "url": "https://www.imdb.com/title/tt1504320",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Oppenheimer (奧本海默)",
+            "notes": "📅 Year: 2023",
+            "url": "https://www.imdb.com/title/tt15398776",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "King Richard",
+            "notes": "📅 Year: 2021",
+            "url": "https://www.imdb.com/title/tt9620288",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Amistad",
+            "notes": "📅 Year: 1997",
+            "url": "https://www.imdb.com/title/tt0118607",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Legend of Bagger Vance",
+            "notes": "📅 Year: 2000",
+            "url": "https://www.imdb.com/title/tt0146984",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Time Traveler's Wife",
+            "notes": "📅 Year: 2009",
+            "url": "https://www.imdb.com/title/tt0452694",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Blue Bird",
+            "notes": "📅 Year: 2008",
+            "url": "https://www.imdb.com/title/tt1313093",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Trip of Compassion",
+            "notes": "📅 Year: 2017",
+            "url": "https://www.imdb.com/title/tt7155154",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Work",
+            "notes": "📅 Year: 2017",
+            "url": "https://www.imdb.com/title/tt5836866",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Rescue",
+            "notes": "📅 Year: 2021",
+            "url": "https://www.imdb.com/title/tt9098872",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Price of Everything",
+            "notes": "📅 Year: 2018",
+            "url": "https://www.imdb.com/title/tt7475540",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Magic Pill",
+            "notes": "📅 Year: 2017",
+            "url": "https://www.imdb.com/title/tt6035294",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Game Changers",
+            "notes": "📅 Year: 2019",
+            "url": "https://www.imdb.com/title/tt7455754",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Biggest Little Farm (我家有個開心農場)",
+            "notes": "📅 Year: 2019",
+            "url": "https://www.imdb.com/title/tt8969332",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Alpinist",
+            "notes": "📅 Year: 2021",
+            "url": "https://www.imdb.com/title/tt11790780",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Struggle: The Life and Lost Art of Szukalski",
+            "notes": "📅 Year: 2018",
+            "url": "https://www.imdb.com/title/tt9316022",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Somm (頂尖侍酒大師)",
+            "notes": "📅 Year: 2013",
+            "url": "https://www.imdb.com/title/tt2204371",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Run for dream",
+            "notes": "📅 Year: 2019",
+            "url": "https://www.imdb.com/title/tt10851008",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Roadrunner: A Film About Anthony Bourdain",
+            "notes": "📅 Year: 2021",
+            "url": "https://www.imdb.com/title/tt14512538",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Revolution of Our Times",
+            "notes": "📅 Year: 2021",
+            "url": "https://www.imdb.com/title/tt15049118",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Butterfly Effect",
+            "notes": "📅 Year: 2004",
+            "url": "https://www.imdb.com/title/tt0289879",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Coach Carter",
+            "notes": "📅 Year: 2005",
+            "url": "https://www.imdb.com/title/tt0393162",
+            "category": "👉 MOVIE"
         }
-    ]
+    ],
+    "type": "movie-tv-shows"
 }

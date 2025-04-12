@@ -1,6 +1,6 @@
 {
+    "lastModified": "2025-04-10",
     "title": "◻️ Essay",
-    "type": "articles",
     "items": [
         {
             "title": "The gap between ‘have to’ and ‘get to’",
@@ -783,12 +783,6 @@
             "category": "👉 0–1.000 words"
         },
         {
-            "title": "How to Lose Time and Money",
-            "notes": "",
-            "url": "https://paulgraham.com/selfindulgence.html",
-            "category": "👉 0–1.000 words"
-        },
-        {
             "title": "The Scarcity of the Long-Term",
             "notes": "",
             "url": "https://kk.org/thetechnium/the-scarcity-of-the-long-term/",
@@ -798,12 +792,6 @@
             "title": "Avoiding Bad Decisions",
             "notes": "",
             "url": "https://fs.blog/avoid-bad-decisions/",
-            "category": "👉 0–1.000 words"
-        },
-        {
-            "title": "Why Tim Ferriss Sold His Muse",
-            "notes": "",
-            "url": "https://www.inc.com/articles/2010/10/why-tim-ferriss-sold-brainquicken.html",
             "category": "👉 0–1.000 words"
         },
         {
@@ -1562,5 +1550,6 @@
             "url": "https://fs.blog/mental-models/",
             "category": "👉 18.000–19.000 words"
         }
-    ]
+    ],
+    "type": "articles"
 }

@@ -1,6 +1,6 @@
 {
+    "lastModified": "2025-04-10",
     "title": "◻️ Book",
-    "type": "books",
     "items": [
         {
             "title": "Glennon Doyle | Untamed: Stop Pleasing, Start Living",
@@ -1695,6 +1695,12 @@
             "category": "👉 Self-Help"
         },
         {
+            "title": "Gretchen Rubin | Secrets of Adulthood: Simple Truths for Our Complex Lives",
+            "notes": "The #1 New York Times bestselling author of The Happiness Project and Better Than Before distills her key insights into simple truths for living with greater satisfaction, clarity, and happiness. The right idea, invoked at the right time, can change our lives. Drawing from her long studies of happiness, and also from the challenges she’s faced herself, writer Gretchen Rubin has discovered the “Secrets of Adulthood” that can help us manage the complexities of life. To convey her conclusions, she turned to the aphorism—the ancient literary discipline that demands that a writer convey a large truth in a few words. Perhaps you’re paralyzed by indecision, struggling to navigate a big change, fighting a temptation, or puzzled by the behavior of someone you love; whatever you face, the right aphorism can help. From procrastination to the pursuit of happiness, Secrets of Adulthood is filled with witty and thought-provoking reflections such as: “Recognize that, like sleeping with a big dog in a small bed, things that are uncomfortable can also be comforting” “Accept yourself, and expect more from yourself” “Easy children raise good parents” “What can be done at any time is often done at no time” For anyone undergoing a major life transition, such as graduation, career switch, marriage, or moving, or for those just encountering everyday dilemmas, these disarming aphorisms will inspire you by articulating truths that you may never have noticed but instantly recognize.",
+            "url": "https://www.amazon.com/s?k=Secrets%20of%20Adulthood+Gretchen%20Rubin",
+            "category": "👉 Self-Help"
+        },
+        {
             "title": "Bert Bates • Kathy Sierra | Badass: Making Users Awesome",
             "notes": "The answers to what makes a sustainable bestseller aren't in the successful product. The answers are in the successful product's users. It's not the product success that matters most, it's the successful results of those who use it. Repeatedly. Consistently. Sustainably. The answer to a sustainable bestseller is to shift the focus from making an awesome product to making an awesome user of that product. The answer lies is helping users become badass not just at using the product, but at whatever it is the product can help them do and be. And some of those answers are surprising, counterintuitive, but can be implemented by anyone at any stage in a product's development. Even if you can't improve your product, you can still improve your user's experience by designing for what happens after they use it. Badass: Making Users Awesome is a course in how to create a context in which users can become more skillful, and, most importantly, to stay motivated to keep moving forward. Everything our users experience is part of that context, and even the smallest improvements can have a dramatic impact.",
             "url": "https://www.amazon.com/s?k=Badass+Bert%20Bates%20%E2%80%A2%20Kathy%20Sierra",
@@ -1916,5 +1922,6 @@
             "url": "https://search.books.com.tw/search/query/key/%E8%B7%91%E8%80%85%E6%97%A5%E8%AA%8C+%E9%83%AD%E8%B1%90%E5%B7%9E",
             "category": "👉 中文書"
         }
-    ]
+    ],
+    "type": "books"
 }

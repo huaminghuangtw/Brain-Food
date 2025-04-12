@@ -1,6 +1,10 @@
+# Brain Food
+
+> **Last Update:** 2025-04-10  
+
 ## About
 
-This repo holds content (or Brain Food 🧠) that I've bookmarked on the Internet, and wanted to consume whenever I am mentally prepared.
+This repo holds content (or “Brain Food 🧠”) that I've bookmarked on the Internet, and wanted to consume whenever I am mentally prepared.
 
 Contributions are welcome! If you have ideas to expand or improve these lists, please [open an issue](https://github.com/huaminghuangtw/Brain-Food/issues/new) or [submit a pull request](https://github.com/huaminghuangtw/Brain-Food/compare).
 
