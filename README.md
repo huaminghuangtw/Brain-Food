@@ -8,7 +8,7 @@ This repo holds content (or “Brain Food 🧠”) that I’ve bookmarked on the
 
 Contributions are welcome! If you have ideas to expand or improve these lists, please [open an issue](https://github.com/huaminghuangtw/Brain-Food/issues/new) or [submit a pull request](https://github.com/huaminghuangtw/Brain-Food/compare).
 
-## APIs
+## Apis
 
 I utilized the following APIs to populate metadata in each list:
 
