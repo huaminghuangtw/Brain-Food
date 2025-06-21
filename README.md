@@ -1,6 +1,6 @@
 # Brain Food
 
-> **Last Update:** 2025-04-10  
+> **Last Update:** 2025-04-10
 
 ## About
 
