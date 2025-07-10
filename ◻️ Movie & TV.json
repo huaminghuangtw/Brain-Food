@@ -1,5 +1,5 @@
 {
-    "lastModified": "2025-04-10",
+    "lastModified": "2025-07-10",
     "title": "◻️ Movie & TV",
     "items": [
         {
@@ -747,9 +747,33 @@
             "category": "👉 MOVIE"
         },
         {
+            "title": "Her",
+            "notes": "📅 Year: 2013",
+            "url": "https://www.imdb.com/title/tt1798709",
+            "category": "👉 MOVIE"
+        },
+        {
             "title": "Coach Carter",
             "notes": "📅 Year: 2005",
             "url": "https://www.imdb.com/title/tt0393162",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "Arrival",
+            "notes": "📅 Year: 2016",
+            "url": "https://www.imdb.com/title/tt2543164",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Whale (我的鯨魚老爸)",
+            "notes": "📅 Year: 2022",
+            "url": "https://www.imdb.com/title/tt13833688",
+            "category": "👉 MOVIE"
+        },
+        {
+            "title": "The Whale (我的鯨魚老爸)",
+            "notes": "📅 Year: 2022",
+            "url": "https://www.imdb.com/title/tt13833688",
             "category": "👉 MOVIE"
         }
     ],
