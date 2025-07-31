@@ -33,8 +33,17 @@ I used [ Apple Shortcuts](https://shortcutomation.com/gallery/brain-food/) to
 5. **[Essay](https://huami.ng/bookmarks/articles)**
 	* [Safari Reading List](https://support.apple.com/en-euro/guide/iphone/iph1a4721132/ios) [^1]
 
+For a quick preview of these lists, explore the [demonstration shortcut](https://shortcutomation.com/gallery/shared/brain-food/), which will deliver a random "Brain Food" directly to your Lock Screen.
+
+<p align="center">
+
+| ![](assets/notification.png) |
+| :-: |
+
+</p>
+
 ## Contribution
 
-Contributions are welcome! If you'd like to help expand these lists, please [open an issue](https://github.com/huaminghuangtw/Brain-Food/issues/new) or [submit a pull request](https://github.com/huaminghuangtw/Brain-Food/compare).
+Contributions are welcome! Please [open an issue](https://github.com/huaminghuangtw/Brain-Food/issues/new) or [submit a pull request](https://github.com/huaminghuangtw/Brain-Food/compare).
 
 [^1]: For read-it-later essays, I simply [exported the reading list items in Safari](https://shortcutomation.com/gallery/brain-food/export-safari-reading-list/). No API calls here.
