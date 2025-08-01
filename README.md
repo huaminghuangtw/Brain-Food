@@ -18,7 +18,34 @@ Let this repository inspire you to be intentional about what you're feeding your
 
 ## How I Built This Project
 
-I used [ Apple Shortcuts](https://shortcutomation.com/gallery/brain-food/) to gather detailed metadata for each list in [Reminders](https://support.apple.com/en-au/guide/reminders/welcome/mac), leveraging the following APIs, and then [exported the results to JSON files](https://shortcutomation.com/gallery/brain-food/share-brain-food/):
+<table>
+  <tr>
+	<td align="center">
+	  <img src="assets/book.png" width="300" alt="Book"/><br>
+	  <span style="font-size:0.8em; color:#888;">Book</span>
+	</td>
+	<td align="center">
+	  <img src="assets/youtube-video.png" width="300" alt="YouTube Video"/><br>
+	  <span style="font-size:0.8em; color:#888;">YouTube Video</span>
+	</td>
+  </tr>
+  <tr>
+	<td align="center">
+	  <img src="assets/essay.png" width="300" alt="Essay"/><br>
+	  <span style="font-size:0.8em; color:#888;">Essay</span>
+	</td>
+	<td align="center">
+	  <img src="assets/movie-tv.png" width="300" alt="Movie & TV"/><br>
+	  <span style="font-size:0.8em; color:#888;">Movie & TV</span>
+	</td>
+  </tr>
+</table>
+
+#todo
+
+I used [ Apple Shortcuts](https://shortcutomation.com/gallery/reminders-automation/organize-brain-food-lists/) to gather detailed metadata for each “Brain Food” in [ Apple Reminders](https://support.apple.com/en-au/guide/reminders/welcome/mac), leveraging the following APIs, and regularly [exported the results to JSON files](https://shortcutomation.com/gallery/brain-food/share-brain-food/), as you can see in this repository:
+
+I used [ Apple Shortcuts](https://shortcutomation.com/gallery/reminders-automation/organize-brain-food-lists/) to collect rich metadata for each “Brain Food” item in [ Apple Reminders](https://support.apple.com/en-au/guide/reminders/welcome/mac), leveraging the APIs below. I then regularly [exported the results to JSON files](https://shortcutomation.com/gallery/brain-food/share-brain-food/), all of which are available in this repository:
 
 1. **[Movie & TV](https://huami.ng/bookmarks/movie-tv-shows)**
 	* [The Movie Database (TMDb) API](https://developer.themoviedb.org)
@@ -33,13 +60,14 @@ I used [ Apple Shortcuts](https://shortcutomation.com/gallery/brain-food/) to
 5. **[Essay](https://huami.ng/bookmarks/articles)**
 	* [Safari Reading List](https://support.apple.com/en-euro/guide/iphone/iph1a4721132/ios) [^1]
 
-For a quick preview of these lists, explore the [demonstration shortcut](https://shortcutomation.com/gallery/shared/brain-food/), which will deliver a random "Brain Food" directly to your Lock Screen.
+For a quick preview of these lists, explore the [demonstration shortcut](https://shortcutomation.com/gallery/shared/brain-food/), which will deliver a random “Brain Food” directly to your Lock Screen.
 
 <p align="center">
-
-| ![](assets/notification.png) |
-| :-: |
-
+<a href="">
+<kbd>
+<img src="assets/notification.png" width="500" title=""/>
+</kbd>
+</a>
 </p>
 
 ## Contribution
