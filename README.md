@@ -4,7 +4,7 @@
 
 > _“Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?” ― T.S. Eliot, [The Waste Land and Other Poems](https://www.goodreads.com/work/quotes/15306654)_
 
-This repository includes a collection of _articles_, _books_, _podcasts_, _movies_, _TV shows_, and _YouTube videos_ that I've [bookmarked](https://huami.ng/bookmarks) across the Internet.
+This repository includes a collection of _articles_, _books_, _podcasts_, _movies_, _TV shows_, and _YouTube videos_ I've [bookmarked](https://huami.ng/bookmarks) across the Internet.
 
 In today's world of information abundance, we're constantly bombarded with information—fast, [endless](https://perell.com/essay/never-ending-now/), and often driven by algorithms. Most of what we consume is either created within the last 24 hours or recommended by “For You” feeds.
 
@@ -14,9 +14,9 @@ Your information diet shapes your mind as much as your food shapes your body—t
 
 What you read, watch, and listen to is as important as what you eat. Your digital environment influences your thinking just as much—_if not more_—than your physical surroundings. Remember that.
 
-Let this project inspire you to be intentional about what you're feeding your brain. Instead of depending on algorithms, take control and decide what deserves your attention. Choose wisely. Brainwash yourself with [greatness](https://www.thelindylibrary.org/).
+Let this project remind you to be intentional about what you're feeding your brain. Don't just follow the algorithm. Pick what deserves your attention. Choose wisely. Brainwash yourself with [greatness](https://www.thelindylibrary.org/).
 
-## How I Built This Project
+## How I Built This System
 
 <table align="center">
 <tr>
@@ -85,7 +85,7 @@ Download [this shortcut](https://shortcutomation.com/gallery/shared/brain-food/)
 <p align="center">
 <a href="assets/notification.png">
 <kbd>
-<img src="assets/notification.png" width="500" title=""/>
+<img src="assets/notification.png" width="" title=""/>
 </kbd>
 </a>
 </p>
