@@ -4,17 +4,31 @@
 
 > _“Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?” ― T.S. Eliot, [The Waste Land and Other Poems](https://www.goodreads.com/work/quotes/15306654)_
 
-This repository includes a collection of _articles_, _books_, _podcasts_, _movies_, _TV shows_, and _YouTube videos_ I've [bookmarked](https://huami.ng/bookmarks) across the Internet.
+The internet is noisy. This is my quiet corner. Here, I curated interesting _articles_, _books_, _podcasts_, _movies_, _TV shows_, and _YouTube videos_ to enjoy later. This project is my attempt to fight information overload, turning a stream of information into a source of knowledge and wisdom.
 
-In today's world of information abundance, we're constantly bombarded with information—fast, [endless](https://perell.com/essay/never-ending-now/), and often driven by algorithms. Most of what we consume is either created within the last 24 hours or recommended by “For You” feeds.
+## Philosophy
 
 > _“I consider that a man's brain originally is like a little empty attic, and you have to stock it with such furniture as you choose. A fool takes in all the lumber of every sort that he comes across, so that the knowledge which might be useful to him gets crowded out, or at best is jumbled up with a lot of other things so that he has a difficulty in laying his hands.” — Sherlock Holmes_
 
-Your information diet shapes your mind as much as your food shapes your body—the quality of your inputs determines the quality of your thoughts. In an age of information overload, you're not the average of the five people you spend the most time with, but the five information sources you consume most.
+### 1. Declutter Your Feed
+
+In today's world of information abundance, we're constantly bombarded with fast, [never-ending](https://perell.com/essay/never-ending-now/) information. Most of what we consume is either created within the last 24 hours or recommended by “For You” algorithms.
+
+Your information diet shapes your mind as much as your food shapes your body—the quality of your inputs determines the quality of your thoughts. In an age of AI, you're not the average of the five people you spend the most time with, but the five information sources you consume most.
 
 What you read, watch, and listen to is as important as what you eat. Your digital environment influences your thinking just as much—_if not more_—than your physical surroundings. Remember that.
 
-Let this project remind you to be intentional about what you're feeding your brain. Don't just follow the algorithm. Pick what deserves your attention. Choose wisely. Brainwash yourself with [greatness](https://www.thelindylibrary.org/).
+Be intentional about what you're feeding your brain. Don't blindly follow the algorithm. Pick what deserves your attention. Choose wisely. Brainwash yourself with [greatness](https://www.thelindylibrary.org/).
+
+### 2. Limit Content Consumption
+
+It was one evening when I first came across Ali Abdaal's work on YouTube. His videos on productivity and personal development resonate deeply with me. They opened up a new world for me. I was deep into more self-improvement blogs and “life-changing” videos.
+
+But soon, I fell into a trap. The more I clicked “Read Next” or “Watch Next,” the more the algorithm fed me. I felt anxious and overwhelmed. My brain felt like it was short-circuiting. I knew I had to escape this trap.
+
+So I made a rule for myself: **Only consume what I've already saved. No more impulsive consumption.**
+
+This rule changed everything. The feeling of “not being enough” faded away. I felt calm and peaceful. I no longer had the fear of missing out. I started choosing quality over quantity.
 
 ## How I Built This System
 
@@ -61,11 +75,17 @@ Let this project remind you to be intentional about what you're feeding your bra
 </tr>
 </table>
 
-#todo
+There are many “Read-It-Later” apps out there: [Instapaper](https://www.instapaper.com/), [Readwise](https://readwise.io/), [Matter](https://hq.getmatter.com/), [Raindrop](https://raindrop.io), etc. These apps offer a centralized place to collect, sync, and read bookmarked content—often with features like highlighting, tagging, and offline access.
 
-I used [ Apple Shortcuts](https://shortcutomation.com/gallery/reminders-automation/organize-brain-food-lists/) to gather detailed metadata for each “Brain Food” in [ Apple Reminders](https://support.apple.com/en-au/guide/reminders/welcome/mac), leveraging the following APIs, and regularly [exported the results to JSON files](https://shortcutomation.com/gallery/brain-food/share-brain-food/), as you can see in this repository:
+I tried each of these apps, but none of them suited my exact needs. The highlighting feature was distracting. More importantly, it was hard to get my data out of their systems.
 
-I used [ Apple Shortcuts](https://shortcutomation.com/gallery/reminders-automation/organize-brain-food-lists/) to collect rich metadata for each “Brain Food” item in [ Apple Reminders](https://support.apple.com/en-au/guide/reminders/welcome/mac), leveraging the APIs below. I then regularly [exported the results to JSON files](https://shortcutomation.com/gallery/brain-food/share-brain-food/), all of which are available in this repository:
+So I decided to build my own Read-It-Later system using [ Apple Reminders](https://support.apple.com/en-au/guide/reminders/welcome/mac) and [ Apple Shortcuts](https://shortcutomation.com).
+
+Since Reminders is a native Apple app, I'm not dependent on a third-party service that could be discontinued, nor do I have to pay for a subscription. I am flexible. I fully own and control my data. I can [export all items to JSON files](https://shortcutomation.com/gallery/brain-food/share-brain-food/) however I like, as you can see in this repository.
+
+Moreover, my queue syncs across other Apple devices, since everything is saved in iCloud. As a minimalist, I also appreciate that there's no recommendation feed and advertisements with this setup.
+
+The real power, however, comes from the integration with Shortcuts. I created automations to gather details for each “Brain Food” using the following APIs:
 
 1. **[Movie & TV](https://huami.ng/bookmarks/movie-and-tv)**
 	* [The Movie Database (TMDb) API](https://developer.themoviedb.org)
@@ -80,6 +100,13 @@ I used [ Apple Shortcuts](https://shortcutomation.com/gallery/reminders-autom
 5. **[Essay](https://huami.ng/bookmarks/essay)**
 	* [Safari Reading List](https://support.apple.com/en-euro/guide/iphone/iph1a4721132/ios) [^1]
 
+For me, Reminders is more than a to-do list, but also a lightweight personal database.
+
+> [!TIP]
+> _[Check out](https://github.com/huaminghuangtw/Evergreen-Lists) my other repository to see how I use Reminders for note-taking!_
+
+### Tool
+
 Download [this shortcut](https://shortcutomation.com/gallery/shared/brain-food/) to have a random “Brain Food” delivered straight to your Lock Screen.
 
 <p align="center">
@@ -90,8 +117,12 @@ Download [this shortcut](https://shortcutomation.com/gallery/shared/brain-food/)
 </a>
 </p>
 
+## Support
+
+You can view this project at [huami.ng/bookmark](https://huami.ng/bookmark). If you find this project valuable, please consider supporting my work by [buying me a coffee](https://buymeacoffee.com/huaming.huang).
+
 ## Contribution
 
 Contributions are welcome! Please [open an issue](https://github.com/huaminghuangtw/Brain-Food/issues/new) or [submit a pull request](https://github.com/huaminghuangtw/Brain-Food/compare).
 
-[^1]: For read-it-later essays, I simply [exported the reading list items in Safari](https://shortcutomation.com/gallery/brain-food/export-safari-reading-list/). No API calls here.
+[^1]: For essays, I simply [exported the reading list items from Safari](https://shortcutomation.com/gallery/brain-food/export-safari-reading-list/). No API calls here.
