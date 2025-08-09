@@ -24,13 +24,23 @@ Be intentional about what you're feeding your brain. Don't blindly follow the al
 
 It was one evening when I first came across Ali Abdaal's work on YouTube. His videos on productivity and personal development resonate deeply with me. They opened up a new world for me. I was deep into more self-improvement blogs and “life-changing” videos.
 
-But soon, I fell into a trap. The more I clicked “Read Next” or “Watch Next,” the more the algorithm fed me. I felt anxious and overwhelmed. My brain felt like it was short-circuiting. I knew I had to escape this trap.
+But soon, I fell into a trap. The more I clicked “Read Next” or “Watch Next,” the more I felt anxious and overwhelmed. My brain was short-circuiting. I knew I had to escape this trap.
 
 So I made a rule for myself: **Only consume what I've already saved. No more impulsive consumption.**
 
-This rule changed everything. The feeling of “not being enough” faded away. I felt calm and peaceful. I no longer had the fear of missing out. I started choosing quality over quantity.
+This rule changed everything. The feeling of “not enough” faded away. I felt calm and peaceful. I no longer had the fear of missing out. I started choosing quality over quantity.
 
 ## How I Built This System
+
+There are many “Read-It-Later” apps to save your reading queue: [Instapaper](https://www.instapaper.com/), [Readwise](https://readwise.io/), [Matter](https://hq.getmatter.com/), [Raindrop](https://raindrop.io), etc. These apps offer a centralized place to collect, sync, and read bookmarked content—often with features like highlighting, tagging, and offline access.
+
+I tried each of these apps, but none of them suited my exact needs. The highlighting feature was distracting. It was hard to get my data out of their systems.
+
+So I decided to build my own Read-It-Later system using [ Apple Reminders](https://support.apple.com/en-au/guide/reminders/welcome/mac) and [ Apple Shortcuts](https://shortcutomation.com).
+
+Since Reminders is a native Apple app, I'm not dependent on a third-party service that could be discontinued, nor do I have to pay for a subscription. I fully own and control my data. No lock-in. I can [export all items](https://shortcutomation.com/gallery/brain-food/share-brain-food/) however I like, as you can see in this repository.
+
+As a minimalist, I also appreciate that there's no ads or recommendation feed with this setup.
 
 <table align="center">
 <tr>
@@ -75,17 +85,7 @@ This rule changed everything. The feeling of “not being enough” faded away. 
 </tr>
 </table>
 
-There are many “Read-It-Later” apps out there: [Instapaper](https://www.instapaper.com/), [Readwise](https://readwise.io/), [Matter](https://hq.getmatter.com/), [Raindrop](https://raindrop.io), etc. These apps offer a centralized place to collect, sync, and read bookmarked content—often with features like highlighting, tagging, and offline access.
-
-I tried each of these apps, but none of them suited my exact needs. The highlighting feature was distracting. More importantly, it was hard to get my data out of their systems.
-
-So I decided to build my own Read-It-Later system using [ Apple Reminders](https://support.apple.com/en-au/guide/reminders/welcome/mac) and [ Apple Shortcuts](https://shortcutomation.com).
-
-Since Reminders is a native Apple app, I'm not dependent on a third-party service that could be discontinued, nor do I have to pay for a subscription. I am flexible. I fully own and control my data. I can [export all items to JSON files](https://shortcutomation.com/gallery/brain-food/share-brain-food/) however I like, as you can see in this repository.
-
-Moreover, my queue syncs across other Apple devices, since everything is saved in iCloud. As a minimalist, I also appreciate that there's no recommendation feed and advertisements with this setup.
-
-The real power, however, comes from the integration with Shortcuts. I created automations to gather details for each “Brain Food” using the following APIs:
+The best part, however, comes from the integration with Shortcuts. I created automations to gather details for each “Brain Food” using the following APIs:
 
 1. **[Movie & TV](https://huami.ng/bookmarks/movie-and-tv)**
 	* [The Movie Database (TMDb) API](https://developer.themoviedb.org)
@@ -98,9 +98,15 @@ The real power, however, comes from the integration with Shortcuts. I created au
 	* [Open Library API](https://openlibrary.org/developers/api)
 	* [Library of Congress (LoC) API](https://www.loc.gov/apis)
 5. **[Essay](https://huami.ng/bookmarks/essay)**
-	* [Safari Reading List](https://support.apple.com/en-euro/guide/iphone/iph1a4721132/ios) [^1]
+	* [Safari Reading List](https://support.apple.com/en-my/108970) [^1] [^2]
 
-For me, Reminders is more than a to-do list, but also a lightweight personal database.
+Reminders is more than a to-do list.
+
+Titles, notes, images, and URLs are perfect for storing metadata, while clickable links open directly inside each reminder. Subtasks let you organize entries by topic, category, or even word count. Tagging adds another layer of flexibility, making it easy to group and filter. You can even set a date to remind yourself to read, assign a priority level, or flag certain items to mark your favorites.
+
+With cross-device iCloud sync, Reminders is a fully customizable database.
+
+Searchable. Sortable. Shareable.
 
 > [!TIP]
 > _[Check out](https://github.com/huaminghuangtw/Evergreen-Lists) my other repository to see how I use Reminders for note-taking!_
@@ -119,10 +125,11 @@ Download [this shortcut](https://shortcutomation.com/gallery/shared/brain-food/)
 
 ## Support
 
-You can view this project at [huami.ng/bookmark](https://huami.ng/bookmark). If you find this project valuable, please consider supporting my work by [buying me a coffee](https://buymeacoffee.com/huaming.huang).
+You can view this project at [huami.ng/bookmark](https://huami.ng/bookmark) and all shortcuts related to this project on [Shortcutomation](https://shortcutomation.com/gallery/brain-food). If you find this project valuable, please consider supporting my work by [buying me a coffee](https://buymeacoffee.com/huaming.huang).
 
 ## Contribution
 
 Contributions are welcome! Please [open an issue](https://github.com/huaminghuangtw/Brain-Food/issues/new) or [submit a pull request](https://github.com/huaminghuangtw/Brain-Food/compare).
 
 [^1]: For essays, I simply [exported the reading list items from Safari](https://shortcutomation.com/gallery/brain-food/export-safari-reading-list/). No API calls here.
+[^2]: Safari's built-in Reading List provides several powerful features: it supports [offline reading](https://support.apple.com/en-my/108970#:~:text=You%20can%20read%20the%20web%20page%20later,%20even%20if%20you're%20offline.), enabling access to saved articles without internet; [Speak Screen](https://support.apple.com/en-my/guide/iphone/iph96b214f0/ios) can read articles aloud; and [Reader View](https://support.apple.com/en-my/guide/iphone/iphdc30e3b86/ios) gives you a focused reading experience.
