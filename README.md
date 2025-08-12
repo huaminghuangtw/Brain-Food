@@ -12,13 +12,15 @@ The internet is noisy. This is my quiet corner. Here, I curated interesting _art
 
 ### 1. Declutter Your Feed
 
-In today's world of information abundance, we're constantly bombarded with fast, [never-ending](https://perell.com/essay/never-ending-now/) information. Most of what we consume is either created within the last 24 hours or recommended by “For You” algorithms.
+In today's world of information abundance, we're constantly bombarded with [never-ending](https://perell.com/essay/never-ending-now/) information. Most of what we consume is either created within the last 24 hours or recommended by “For You” algorithms.
 
-Your information diet shapes your mind as much as your food shapes your body—the quality of your inputs determines the quality of your thoughts. In an age of AI, you're not the average of the five people you spend the most time with, but the five information sources you consume most.
+We all know that fast food is bad for our bodies. So why consume junk that rot your brain?
 
-What you read, watch, and listen to is as important as what you eat. Your digital environment influences your thinking just as much—_if not more_—than your physical surroundings. Remember that.
+What you read, watch, and listen to is as important as what you eat. Your information diet shapes your mind as much as your food shapes your body—the quality of your inputs determines the quality of your thoughts.
 
-Be intentional about what you're feeding your brain. Don't blindly follow the algorithm. Pick what deserves your attention. Choose wisely. Brainwash yourself with [greatness](https://www.thelindylibrary.org/).
+In an age of AI, you're not the average of the five people you spend the most time with, but the five information sources you consume most. Your digital environment influences your thinking just as much—_if not more_—than your physical surroundings. Remember that.
+
+Be intentional about what you're feeding your brain. Don't blindly follow the algorithm. Pick what deserves your attention. Reclaim your [ultimate life currency](https://www.youtube.com/shorts/ii4YJK_-RTk). Brainwash yourself with [greatness](https://www.thelindylibrary.org/).
 
 ### 2. Limit Content Consumption
 
