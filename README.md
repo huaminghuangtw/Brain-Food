@@ -20,7 +20,7 @@ What you read, watch, and listen to is as important as what you eat. Your inform
 
 In an age of AI, you're not the average of the five people you spend the most time with, but the five information sources you consume most. Your digital environment influences your thinking just as much—_if not more_—than your physical surroundings. Remember that.
 
-Be intentional about what you're feeding your brain. Don't blindly follow the algorithm. Pick what deserves your attention. Reclaim your [ultimate life currency](https://www.youtube.com/shorts/ii4YJK_-RTk). Brainwash yourself with [greatness](https://www.thelindylibrary.org/).
+Be intentional about what you're feeding your brain. Don't blindly follow the algorithm. Pick what deserves your attention. Reclaim your [ultimate life currency](https://www.youtube.com/shorts/ii4YJK_-RTk). Brainwash yourself with [greatness](https://www.google.com/search?q=Lindy+Library).
 
 ### 2. Limit Content Consumption
 
