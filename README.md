@@ -104,7 +104,7 @@ The best part, however, comes from the integration with Shortcuts. I created aut
 
 Reminders is more than a to-do list.
 
-Titles, notes, images, and URLs are perfect for storing metadata, while clickable links open directly inside each reminder. Subtasks let you organize entries by topic, category, or even word count. Tagging adds another layer of flexibility, making it easy to group and filter. You can even set a date to remind yourself to read, assign a priority level, or flag certain items to mark your favorites.
+Titles, notes, images, and URLs are perfect for storing metadata, while clickable links open directly from each reminder. Subtasks let you organize entries by topic, category, or even word count. Tagging adds another layer of flexibility, making it easy to group and filter. You can even set a date to remind yourself to read, assign a priority level, or flag certain items to mark your favorites.
 
 With cross-device iCloud sync, Reminders is a fully customizable database.
 
