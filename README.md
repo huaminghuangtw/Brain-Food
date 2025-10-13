@@ -12,23 +12,23 @@ The internet is noisy. This is my quiet corner. Here, I curated interesting _art
 
 ### 1. Declutter Your Feed
 
-In today's world of information abundance, we're constantly bombarded with [never-ending](https://perell.com/essay/never-ending-now/) information. Most of what we consume is either created within the last 24 hours or recommended by “For You” algorithms.
+In today’s world of information abundance, we’re constantly bombarded with [never-ending](https://perell.com/essay/never-ending-now/) information. Most of what we consume is either created within the last 24 hours or recommended by “For You” algorithms.
 
 We all know that fast food is bad for our bodies. So why consume junk that rot your brain?
 
 What you read, watch, and listen to is as important as what you eat. Your information diet shapes your mind as much as your food shapes your body—the quality of your inputs determines the quality of your thoughts.
 
-In an age of AI, you're not the average of the five people you spend the most time with, but the five information sources you consume most. Your digital environment influences your thinking just as much—_if not more_—than your physical surroundings. Remember that.
+In an age of AI, you’re not the average of the five people you spend the most time with, but the five information sources you consume most. Your digital environment influences your thinking just as much—_if not more_—than your physical surroundings. Remember that.
 
-Be intentional about what you're feeding your brain. Don't blindly follow the algorithm. Pick what deserves your attention. Reclaim your [ultimate life currency](https://www.youtube.com/shorts/ii4YJK_-RTk). Brainwash yourself with [greatness](https://www.google.com/search?q=Lindy+Library).
+Be intentional about what you’re feeding your brain. Don’t blindly follow the algorithm. Pick what deserves your attention. Reclaim your [ultimate life currency](https://www.youtube.com/shorts/ii4YJK_-RTk). Brainwash yourself with [greatness](https://www.google.com/search?q=Lindy+Library).
 
 ### 2. Limit Content Consumption
 
-It was one evening when I first came across Ali Abdaal's work on YouTube. His videos on productivity and personal development resonate deeply with me. They opened up a new world for me. I was deep into more self-improvement blogs and “life-changing” videos.
+It was one evening when I first came across Ali Abdaal’s work on YouTube. His videos on productivity and personal development resonate deeply with me. They opened up a new world for me. I was deep into more self-improvement blogs and “life-changing” videos.
 
 But soon, I fell into a trap. The more I clicked “Read Next” or “Watch Next,” the more I felt anxious and overwhelmed. My brain was short-circuiting. I knew I had to escape this trap.
 
-So I made a rule for myself: **Only consume what I've already saved. No more impulsive consumption.**
+So I made a rule for myself: **Only consume what I’ve already saved. No more impulsive consumption.**
 
 This rule changed everything. The feeling of “not enough” faded away. I felt calm and peaceful. I no longer had the fear of missing out. I started choosing quality over quantity.
 
@@ -40,9 +40,9 @@ I tried each of these apps, but none of them suited my exact needs. The highligh
 
 So I decided to build my own Read-It-Later system using [ Apple Reminders](https://support.apple.com/en-au/guide/reminders/welcome/mac) and [ Apple Shortcuts](https://shortcutomation.com).
 
-Since Reminders is a native Apple app, I'm not dependent on a third-party service that could be discontinued, nor do I have to pay for a subscription. I fully own and control my data. No lock-in. I can [export all items](https://shortcutomation.com/gallery/brain-food/share-brain-food/) however I like, as you can see in this repository.
+Since Reminders is a native Apple app, I’m not dependent on a third-party service that could be discontinued, nor do I have to pay for a subscription. I fully own and control my data. No lock-in. I can [export all items](https://shortcutomation.com/gallery/brain-food/share-brain-food/) however I like, as you can see in this repository.
 
-As a minimalist, I also appreciate that there's no ads or recommendation feed with this setup.
+As a minimalist, I also appreciate that there’s no ads or recommendation feed with this setup.
 
 <table align="center">
 <tr>
@@ -134,4 +134,4 @@ You can view this project at [huami.ng/bookmark](https://huami.ng/bookmark) and 
 Contributions are welcome! Please [open an issue](https://github.com/huaminghuangtw/Brain-Food/issues/new) or [submit a pull request](https://github.com/huaminghuangtw/Brain-Food/compare).
 
 [^1]: For essays, I simply [exported the reading list items from Safari](https://shortcutomation.com/gallery/brain-food/export-safari-reading-list/). No API calls here.
-[^2]: Safari's built-in Reading List provides several powerful features: it supports [offline reading](https://support.apple.com/en-my/108970#:~:text=You%20can%20read%20the%20web%20page%20later,%20even%20if%20you're%20offline.), enabling access to saved articles without internet; [Speak Screen](https://support.apple.com/en-my/guide/iphone/iph96b214f0/ios) can read articles aloud; and [Reader View](https://support.apple.com/en-my/guide/iphone/iphdc30e3b86/ios) gives you a focused reading experience.
+[^2]: Safari’s built-in Reading List provides several powerful features: it supports [offline reading](https://support.apple.com/en-my/108970#:~:text=You%20can%20read%20the%20web%20page%20later,%20even%20if%20you're%20offline.), enabling access to saved articles without internet; [Speak Screen](https://support.apple.com/en-my/guide/iphone/iph96b214f0/ios) can read articles aloud; and [Reader View](https://support.apple.com/en-my/guide/iphone/iphdc30e3b86/ios) gives you a focused reading experience.
