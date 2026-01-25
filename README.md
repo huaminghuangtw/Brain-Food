@@ -2,13 +2,13 @@
 
 ## About
 
-> _“Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?” ― T.S. Eliot, [The Waste Land and Other Poems](https://www.goodreads.com/work/quotes/15306654)_
+> _“Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?” — T.S. Eliot, [The Waste Land and Other Poems](https://www.goodreads.com/work/quotes/15306654)_
 
 The internet is noisy. This is my quiet corner. Here, I curated interesting _articles_, _books_, _podcasts_, _movies_, _TV shows_, and _YouTube videos_ to enjoy later. This project is my attempt to fight information overload, turning a stream of information into a source of knowledge and wisdom.
 
 ## Philosophy
 
-> _“A man should keep his little brain-attic stocked with all the furniture that he is likely to use, and the rest he can put away in the lumber-room of his library, where he can get it if he wants it.” ― Arthur Conan Doyle, [The Adventures of Sherlock Holmes](https://www.goodreads.com/work/quotes/1222101)_
+> _“A man should keep his little brain-attic stocked with all the furniture that he is likely to use, and the rest he can put away in the lumber-room of his library, where he can get it if he wants it.” — Arthur Conan Doyle, [The Adventures of Sherlock Holmes](https://www.goodreads.com/work/quotes/1222101)_
 
 ### 1. Declutter Your Feed
 
