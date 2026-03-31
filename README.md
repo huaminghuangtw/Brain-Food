@@ -89,17 +89,17 @@ As a minimalist, I also appreciate that there’s no ads or recommendation feed 
 
 The best part, however, comes from the integration with Shortcuts. I created automations to gather details for each “Brain Food” using the following APIs:
 
-1. **[Movie & TV](https://huami.ng/bookmarks/movie-and-tv)**
+1. **[Movie & TV](https://huam.ing/bookmarks/movie-and-tv)**
 	* [The Movie Database (TMDb) API](https://developer.themoviedb.org)
-2. **[Podcast](https://huami.ng/bookmarks/podcast)**
+2. **[Podcast](https://huam.ing/bookmarks/podcast)**
 	* [Spotify Web API](https://developer.spotify.com/documentation/web-api)
-3. **[YouTube Video](https://huami.ng/bookmarks/youtube-video)**
+3. **[YouTube Video](https://huam.ing/bookmarks/youtube-video)**
 	* [YouTube API](https://developers.google.com/youtube/v3/getting-started)
-4. **[Book](https://huami.ng/bookmarks/book)**
+4. **[Book](https://huam.ing/bookmarks/book)**
 	* [Google Books API](https://developers.google.com/books/docs/overview)
 	* [Open Library API](https://openlibrary.org/developers/api)
 	* [Library of Congress (LoC) API](https://www.loc.gov/apis)
-5. **[Essay](https://huami.ng/bookmarks/essay)**
+5. **[Essay](https://huam.ing/bookmarks/essay)**
 	* [Safari Reading List](https://support.apple.com/en-my/108970) [^1] [^2]
 
 Reminders is more than a to-do list.
@@ -127,7 +127,7 @@ Download [this shortcut](https://shortcutomation.com/brain-food/) to have a rand
 
 ## Support
 
-You can view this project at [huami.ng/bookmark](https://huami.ng/bookmark) and all shortcuts related to this project on [Shortcutomation](https://shortcutomation.com/gallery/brain-food). If you find this project valuable, please consider supporting my work by [buying me a coffee](https://buymeacoffee.com/huaming.huang).
+You can view this project at [huam.ing/bookmark](https://huam.ing/bookmark) and all shortcuts related to this project on [Shortcutomation](https://shortcutomation.com/gallery/brain-food). If you find this project valuable, please consider supporting my work by [buying me a coffee](https://buymeacoffee.com/huaming.huang).
 
 ## Contribution
 
