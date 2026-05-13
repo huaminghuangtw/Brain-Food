@@ -49,7 +49,7 @@ As a minimalist, I also appreciate that there’s no ads or recommendation feed 
 <td align="center">
 <a href="assets/book.png">
 <kbd>
-<img src="assets/book.png" width="" title=""/>
+<img src="assets/book.png"/>
 </kbd>
 </a>
 <br>
@@ -58,7 +58,7 @@ As a minimalist, I also appreciate that there’s no ads or recommendation feed 
 <td align="center">
 <a href="assets/youtube-video.png">
 <kbd>
-<img src="assets/youtube-video.png" width="" title=""/>
+<img src="assets/youtube-video.png"/>
 </kbd>
 </a>
 <br>
@@ -69,7 +69,7 @@ As a minimalist, I also appreciate that there’s no ads or recommendation feed 
 <td align="center">
 <a href="assets/essay.png">
 <kbd>
-<img src="assets/essay.png" width="" title=""/>
+<img src="assets/essay.png"/>
 </kbd>
 </a>
 <br>
@@ -78,7 +78,7 @@ As a minimalist, I also appreciate that there’s no ads or recommendation feed 
 <td align="center">
 <a href="assets/movie-and-tv.png">
 <kbd>
-<img src="assets/movie-and-tv.png" width="" title=""/>
+<img src="assets/movie-and-tv.png"/>
 </kbd>
 </a>
 <br>
@@ -120,7 +120,7 @@ Download [this shortcut](https://shortcutomation.com/brain-food/) to have a rand
 <p align="center">
 <a href="assets/notification.png">
 <kbd>
-<img src="assets/notification.png" width="" title=""/>
+<img src="assets/notification.png"/>
 </kbd>
 </a>
 </p>
