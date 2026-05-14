@@ -135,7 +135,7 @@ Contributions are welcome! Please [open an issue](https://github.com/huaminghuan
 
 ## License
 
-This project is released into the public domain ([CC0 1.0](LICENSE)).
+This project is released into the public domain ([CC0 1.0](LICENSE.md)).
 
 [^1]: For essays, I simply [exported the reading list items from Safari](https://shortcutomation.com/export-safari-reading-list/). No API calls here.
 [^2]: Safari’s built-in Reading List provides several powerful features: it supports [offline reading](https://support.apple.com/en-my/108970#:~:text=You%20can%20read%20the%20web%20page%20later,%20even%20if%20you’re%20offline.), enabling access to saved articles without internet; [Speak Screen](https://support.apple.com/en-my/guide/iphone/iph96b214f0/ios) can read articles aloud; and [Reader View](https://support.apple.com/en-my/guide/iphone/iphdc30e3b86/ios) gives you a focused reading experience.
