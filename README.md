@@ -4,7 +4,9 @@
 
 > _“Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?” — T.S. Eliot, [The Waste Land and Other Poems](https://www.goodreads.com/work/quotes/15306654)_
 
-The internet is noisy. This is my quiet corner. Here, I curated interesting _articles_, _books_, _podcasts_, _movies_, _TV shows_, and _YouTube videos_ to enjoy later. This project is my attempt to fight information overload, turning a stream of information into a source of knowledge and wisdom.
+Welcome to my Lindy Library: the 0.1% of resources that have given me the maximum value.
+
+The internet is noisy. This is my quiet corner. Here, I curate interesting _articles_, _books_, _podcasts_, _movies_, _TV shows_, and _YouTube videos_ to enjoy later. This project is my attempt to fight information overload — to turn a stream of information into a source of knowledge and wisdom. 
 
 ## Philosophy
 
