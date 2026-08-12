@@ -6,7 +6,7 @@
 
 Welcome to my Lindy Library: the 0.1% of resources that have given me the maximum value.
 
-The internet is noisy. This is my quiet corner. Here, I curate interesting _articles_, _books_, _podcasts_, _movies_, _TV shows_, and _YouTube videos_ to enjoy later. This project is my attempt to fight information overload — to turn a stream of information into a source of knowledge and wisdom. 
+The internet is noisy. This is my quiet corner. Here, I curate interesting _essays_, _books_, _podcasts_, _movies_, _documentaries_, and _YouTube videos_ to enjoy later. This project is my attempt to fight information overload — to turn a stream of information into a source of knowledge and wisdom. 
 
 ## Philosophy
 
