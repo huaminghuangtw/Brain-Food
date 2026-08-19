@@ -1,15 +1,65 @@
 {
     "items": [
-        "❤️ Favorites",
-        "❤️ Favorites",
-        "❤️ Favorites",
-        "❤️ Favorites",
-        "❤️ Favorites",
-        "❤️ Favorites",
-        "❤️ Favorites",
-        "❤️ Favorites",
-        "❤️ Favorites",
-        "❤️ Favorites",
+        {
+            "title": "2024 Commencement Address by Roger Federer at Dartmouth",
+            "notes": "",
+            "url": "https://www.youtube.com/watch?v=pqWUuYTcG-o",
+            "category": "❤️ Favorites"
+        },
+        {
+            "title": "Are you enough?",
+            "notes": "",
+            "url": "https://www.youtube.com/watch?v=7Wat10MId7A",
+            "category": "❤️ Favorites"
+        },
+        {
+            "title": "Golden Buzzer: Nightbirde's Original Song Makes Simon Cowell Emotional - America's Got Talent 2021",
+            "notes": "",
+            "url": "https://www.youtube.com/watch?v=CZJvBfoHDk0",
+            "category": "❤️ Favorites"
+        },
+        {
+            "title": "Kobe Bryant CHAMPION MINDSET - What Separates the WINNERS from the LOSERS (MUST WATCH)",
+            "notes": "",
+            "url": "https://www.youtube.com/watch?v=Ju5kyQJyGBY",
+            "category": "❤️ Favorites"
+        },
+        {
+            "title": "Steve Jobs' 2005 Stanford Commencement Address",
+            "notes": "",
+            "url": "https://www.youtube.com/watch?v=UF8uR6Z6KLc",
+            "category": "❤️ Favorites"
+        },
+        {
+            "title": "The surprising science of happiness | Dan Gilbert",
+            "notes": "",
+            "url": "https://www.youtube.com/watch?v=4q1dgn_C0AU",
+            "category": "❤️ Favorites"
+        },
+        {
+            "title": "This Is Water - David Foster Wallace Commencement Speech",
+            "notes": "",
+            "url": "https://www.youtube.com/watch?v=DCbGM4mqEVw",
+            "category": "❤️ Favorites"
+        },
+        {
+            "title": "世界紀錄一年開千台刀！狂醫專治沒救的！全球名醫都服他｜杜元坤",
+            "notes": "",
+            "url": "https://www.youtube.com/watch?v=K5FM1U1oXng",
+            "category": "❤️ Favorites"
+        },
+        {
+            "title": "龍騰文化 最難的一堂課",
+            "notes": "",
+            "url": "https://youtu.be/TGhhxP_Q9aI",
+            "category": "❤️ Favorites"
+        },
+        {
+            "title": "體操女孩 給每位陪伴孩子的大人",
+            "notes": "",
+            "url": "https://youtu.be/ClcfZ0iql4U",
+            "category": "❤️ Favorites"
+        },
         {
             "title": "TED-Ed | What is the tragedy of the commons? - Nicholas Amendolare",
             "notes": "Duration: 5 mins",
