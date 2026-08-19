@@ -1,14 +1,59 @@
 {
     "items": [
-        "❤️ Favorites",
-        "❤️ Favorites",
-        "❤️ Favorites",
-        "❤️ Favorites",
-        "❤️ Favorites",
-        "❤️ Favorites",
-        "❤️ Favorites",
-        "❤️ Favorites",
-        "❤️ Favorites",
+        {
+            "title": "Maker's Schedule, Manager's Schedule",
+            "notes": "",
+            "url": "https://paulgraham.com/makersschedule.html",
+            "category": "❤️ Favorites"
+        },
+        {
+            "title": "Screw motivation, what you need is discipline.",
+            "notes": "",
+            "url": "https://www.wisdomination.com/screw-motivation-what-you-need-is-discipline/",
+            "category": "❤️ Favorites"
+        },
+        {
+            "title": "The gap between ‘have to’ and ‘get to’",
+            "notes": "",
+            "url": "https://seths.blog/2019/04/the-gap-between-have-to-and-get-to/",
+            "category": "❤️ Favorites"
+        },
+        {
+            "title": "The Multidisciplinary Approach to Thinking",
+            "notes": "",
+            "url": "https://fs.blog/great-talks/multidisciplinary-approach-thinking-peter-kaufman/",
+            "category": "❤️ Favorites"
+        },
+        {
+            "title": "The One Non-Negotiable Exercise I Do Every Single Time I Hit The Gym",
+            "notes": "",
+            "url": "https://medium.com/in-fitness-and-in-health/the-one-non-negotiable-exercise-i-do-every-single-time-i-hit-the-gym-bf1487d6296e",
+            "category": "❤️ Favorites"
+        },
+        {
+            "title": "從陳建仁的選擇，看我們是否已成為物質的奴隸",
+            "notes": "",
+            "url": "https://vocus.cc/article/5ebe0837fd89780001507e13",
+            "category": "❤️ Favorites"
+        },
+        {
+            "title": "Why I Am a Bad Correspondent",
+            "notes": "",
+            "url": "https://www.nealstephenson.com/why-i-am-a-bad-correspondent.html",
+            "category": "❤️ Favorites"
+        },
+        {
+            "title": "We judge ourselves by our intentions and others by their behavior",
+            "notes": "",
+            "url": "https://donmcminn.com/2020/02/we-judge-ourselves-by-our-intentions-and-others-by-their-behavior/",
+            "category": "❤️ Favorites"
+        },
+        {
+            "title": "The Advantage Of Being A Little Underemployed",
+            "notes": "",
+            "url": "https://collabfund.com/blog/the-advantage-of-being-a-little-bit-underemployed/",
+            "category": "❤️ Favorites"
+        },
         {
             "title": "The Story Behind Building a Second Brain",
             "notes": "",
