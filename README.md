@@ -49,40 +49,24 @@ As a minimalist, I also appreciate that there’s no ads or recommendation feed 
 <table align="center">
 <tr>
 <td align="center">
-<a href="https://media.huam.ing/image/eeb7d0074cfbcae278c8fe2be6f16a28.webp">
-<kbd>
-<img src="https://media.huam.ing/image/eeb7d0074cfbcae278c8fe2be6f16a28.webp"/>
-</kbd>
-</a>
+<a href="https://media.huam.ing/image/eeb7d0074cfbcae278c8fe2be6f16a28.webp"><kbd><img src="https://media.huam.ing/image/eeb7d0074cfbcae278c8fe2be6f16a28.webp"/></kbd></a>
 <br>
 <sub>Book</sub>
 </td>
 <td align="center">
-<a href="https://media.huam.ing/image/870bd5b85e4da39d38cd6a836f140970.webp">
-<kbd>
-<img src="https://media.huam.ing/image/870bd5b85e4da39d38cd6a836f140970.webp"/>
-</kbd>
-</a>
+<a href="https://media.huam.ing/image/870bd5b85e4da39d38cd6a836f140970.webp"><kbd><img src="https://media.huam.ing/image/870bd5b85e4da39d38cd6a836f140970.webp"/></kbd></a>
 <br>
 <sub>YouTube Video</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<a href="https://media.huam.ing/image/b0701bb1913e7320a6fe52d02bd47060.webp">
-<kbd>
-<img src="https://media.huam.ing/image/b0701bb1913e7320a6fe52d02bd47060.webp"/>
-</kbd>
-</a>
+<a href="https://media.huam.ing/image/b0701bb1913e7320a6fe52d02bd47060.webp"><kbd><img src="https://media.huam.ing/image/b0701bb1913e7320a6fe52d02bd47060.webp"/></kbd></a>
 <br>
 <sub>Essay</sub>
 </td>
 <td align="center">
-<a href="https://media.huam.ing/image/82929d3786a2dfa872a8f52802bbb75e.webp">
-<kbd>
-<img src="https://media.huam.ing/image/82929d3786a2dfa872a8f52802bbb75e.webp"/>
-</kbd>
-</a>
+<a href="https://media.huam.ing/image/82929d3786a2dfa872a8f52802bbb75e.webp"><kbd><img src="https://media.huam.ing/image/82929d3786a2dfa872a8f52802bbb75e.webp"/></kbd></a>
 <br>
 <sub>Movie & TV</sub>
 </td>
@@ -120,11 +104,7 @@ Searchable. Sortable. Shareable.
 Download [this shortcut](https://shortcutomation.com/brain-food/) to have a random “Brain Food” delivered straight to your Lock Screen.
 
 <p align="center">
-<a href="https://media.huam.ing/image/8f700dc42c24cb9c5228e2e002ff3a8a.webp">
-<kbd>
-<img src="https://media.huam.ing/image/8f700dc42c24cb9c5228e2e002ff3a8a.webp"/>
-</kbd>
-</a>
+<a href="https://media.huam.ing/image/8f700dc42c24cb9c5228e2e002ff3a8a.webp"><kbd><img src="https://media.huam.ing/image/8f700dc42c24cb9c5228e2e002ff3a8a.webp"/></kbd></a>
 </p>
 
 ## Support
